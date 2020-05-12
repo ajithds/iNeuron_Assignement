@@ -14,7 +14,7 @@ Write a Python program to accept the user's first and last name and then getting
 the the reverse order with a space between first name and last name.
 4.
 Write a Python program to find the volume of a sphere with diameter 12 cm.
-Formula: V=4/3 * π * (r*r*r)
+Formula: V=4/3 * π * (r*r*r) 
 
 # Task 2
 
@@ -23,15 +23,6 @@ Write a program which accepts a sequence of comma-separated numbers from console
 generate a list.
 2.
 Create the below pattern using nested for loop in Python.
-*
-* *
-* * *
-* * * *
-* * * * *
-* * * *
-* * *
-* *
-*
 3.
 Write a Python program to reverse a word after accepting the input from the user.
 Sample Output:
